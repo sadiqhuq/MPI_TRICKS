@@ -1,2 +1,7 @@
 # MPI_TRICKS
-MPI code snippets for specific tasks. In FORTRAN and C++.
+MPI demo snippets for specific tasks. 
+
+
+### DEMO
+
+contiguous => MPI TYPE VECTOR
